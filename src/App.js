@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
     
         <p>
-         MAIN
+         QA
         </p>
        
       </header>
